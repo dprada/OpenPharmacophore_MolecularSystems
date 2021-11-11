@@ -45,5 +45,6 @@ development:
   dependencies:
     - *production_dependencies
     - *docs_dependencies
+    - jupyterlab
     - pyyaml
 
